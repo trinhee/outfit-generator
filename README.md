@@ -1,2 +1,2 @@
 # outfit-generator
-Andriod app used for generating outfits
+Android app used for generating outfits
